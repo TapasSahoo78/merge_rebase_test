@@ -1,2 +1,2 @@
 <?php
-echo "Update index";
+echo "Update index modified";
